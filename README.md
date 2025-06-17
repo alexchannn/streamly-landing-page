@@ -3,7 +3,7 @@
 A modern, fully responsive landing page template designed for SaaS businesses using HTML5, CSS3, and Tailwind CSS. Streamly features a clean layout, mobile responsiveness, and modern design principles suitable for startups and technology businesses.
 
 ## 🔥 Live Demo
-Check out the live page: [Your GitHub Pages URL]
+Check out the live page: alexchannn.github.io/streamly-landing-page
 
 ## ✨ Features
 
